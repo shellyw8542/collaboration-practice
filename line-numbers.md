@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome.
 #### 10
-#### 11
+#### 11 Git is incredibly cool!
 #### 12
 #### 13
 #### 14
