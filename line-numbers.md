@@ -6,7 +6,7 @@
 #### 6
 #### 7 Shelly was also here!
 #### 8
-#### 9 GitHub is really good.
+#### 9 
 #### 10
 #### 11
 #### 12
